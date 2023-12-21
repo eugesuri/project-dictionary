@@ -1,0 +1,15 @@
+.App-logo {
+  max-width: 1000px;
+  display: block;
+  margin: 0 auto;
+  opacity: 0.7;
+}
+
+.App-header {
+  margin: 30px;
+}
+
+.App-footer {
+  text-align: center;
+  margin: 30px 0;
+}
