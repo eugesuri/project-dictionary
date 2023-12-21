@@ -16,7 +16,7 @@ function App() {
           {" "}
           Coded by Eugenia Brunetti Ehnimb and is open-sourced on {""}
           <a
-            href="https://github.com/eugesuri/app-dictionary"
+            href="https://github.com/eugesuri/project-dictionary"
             title="Eugenia Brunetti Github"
             target="_blank"
             rel="noreferrer"
@@ -25,7 +25,7 @@ function App() {
           </a>{" "}
           and hosted on {""}
           <a
-            href="https://app.netlify.com/sites/cosmic-zabaione-3f16cb/overview"
+            href="https://app.netlify.com/sites/cerulean-hummingbird-60f92f/overview"
             title="Eugenia Brunetti netlify"
             target="_blank"
             rel="noreferrer"
