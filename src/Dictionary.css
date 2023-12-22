@@ -5,8 +5,9 @@
 
 h1 {
   font-family: Georgia, "Times New Roman", Times, serif;
-  color: rgb(229, 78, 229);
+  color: rgb(140, 221, 226);
   box-shadow: plum;
+  font-size: 38px;
 }
 
 .Dictionary section {
