@@ -25,7 +25,7 @@ function App() {
           </a>{" "}
           and hosted on {""}
           <a
-            href="https://app.netlify.com/sites/cerulean-hummingbird-60f92f/overview"
+            href="https://app.netlify.com/sites/dictionary-project-eugenia-brunetti/overview"
             title="Eugenia Brunetti netlify"
             target="_blank"
             rel="noreferrer"
